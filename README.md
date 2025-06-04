@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Baruningithub/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0492-construct-the-rectangle](https://github.com/Baruningithub/LeetCode/tree/master/0492-construct-the-rectangle) |
 ## Binary Search
 |  |
 | ------- |
