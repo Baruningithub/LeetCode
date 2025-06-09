@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Baruningithub/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/Baruningithub/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Baruningithub/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Baruningithub/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
