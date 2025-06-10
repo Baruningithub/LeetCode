@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Baruningithub/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/Baruningithub/LeetCode/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Baruningithub/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Baruningithub/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Baruningithub/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Baruningithub/LeetCode/tree/master/0412-fizz-buzz) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Baruningithub/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Baruningithub/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Baruningithub/LeetCode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -60,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Baruningithub/LeetCode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Baruningithub/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
