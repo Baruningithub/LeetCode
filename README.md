@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Baruningithub/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0541-reverse-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0389-find-the-difference](https://github.com/Baruningithub/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Baruningithub/LeetCode/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Simulation
 |  |
 | ------- |
