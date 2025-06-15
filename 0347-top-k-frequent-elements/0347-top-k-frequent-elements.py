@@ -3,8 +3,6 @@ class Solution:
         if len(nums) == k:
             return nums
 
-        from collections import Counter
-
         counter = Counter(nums)
         ans = []
         c = 0
