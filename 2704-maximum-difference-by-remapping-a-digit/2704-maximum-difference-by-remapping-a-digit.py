@@ -1,8 +1,6 @@
 class Solution:
     def minMaxDifference(self, num: int) -> int:
         s = str(num)
-        max_str = str()
-        min_str = str()
         
         for i in s:
             if i != '9':
