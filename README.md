@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Baruningithub/LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Baruningithub/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/Baruningithub/LeetCode/tree/master/1013-fibonacci-number) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Baruningithub/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Baruningithub/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search
 |  |
@@ -90,5 +91,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Baruningithub/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Baruningithub/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
