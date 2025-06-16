@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Baruningithub/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Baruningithub/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Baruningithub/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Baruningithub/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Baruningithub/LeetCode/tree/master/0342-power-of-four) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Baruningithub/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Baruningithub/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
