@@ -10,6 +10,3 @@ class Solution:
                 diff = max(diff, i - min_)
 
         return diff
-
-
-        return diff
