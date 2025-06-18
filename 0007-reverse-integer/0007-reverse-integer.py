@@ -9,8 +9,8 @@ class Solution:
 
         rev = s[::-1]
 
-        ans = int(rev) if rev[0] != '0' else int(rev[1::])
+        ans = int(rev)
 
-        if ans>2**31-1 or ans < -2**31: return 0
+        if ans > (1 << 31) - 1: return 0
 
         return ans if x>0 else -ans
