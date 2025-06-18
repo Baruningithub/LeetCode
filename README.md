@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Baruningithub/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Baruningithub/LeetCode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Baruningithub/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/Baruningithub/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Baruningithub/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
@@ -26,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Baruningithub/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Baruningithub/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Baruningithub/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Baruningithub/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Baruningithub/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Baruningithub/LeetCode/tree/master/0389-find-the-difference) |
@@ -43,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Baruningithub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Baruningithub/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Baruningithub/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Baruningithub/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Baruningithub/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -92,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Baruningithub/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Baruningithub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Baruningithub/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Baruningithub/LeetCode/tree/master/0389-find-the-difference) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Baruningithub/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -100,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0217-contains-duplicate](https://github.com/Baruningithub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Baruningithub/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Baruningithub/LeetCode/tree/master/0389-find-the-difference) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Baruningithub/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
