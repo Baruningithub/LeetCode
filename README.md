@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Baruningithub/LeetCode/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Baruningithub/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Baruningithub/LeetCode/tree/master/0342-power-of-four) |
