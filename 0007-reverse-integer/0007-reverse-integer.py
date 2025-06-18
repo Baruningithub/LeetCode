@@ -1,15 +1,10 @@
 import sys
 class Solution:
     def reverse(self, x: int) -> int:
-
         n = abs(x)
         if n < 10: return x
 
-        s = str(n)
-
-        rev = s[::-1]
-
-        ans = int(rev)
+        ans = int(str(n)[::-1])
 
         if ans > (1 << 31) - 1: return 0
 
