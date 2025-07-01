@@ -1,4 +1,3 @@
-from collections import Counter
 class Solution:
     def possibleStringCount(self, word: str) -> int:
         count = n = len(word)
