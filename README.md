@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Baruningithub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Baruningithub/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Baruningithub/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Baruningithub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Baruningithub/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Baruningithub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Baruningithub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Baruningithub/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Baruningithub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0541-reverse-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/0541-reverse-string-ii) |
 ## Dynamic Programming
 |  |
