@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Baruningithub/LeetCode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Baruningithub/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Baruningithub/LeetCode/tree/master/1013-fibonacci-number) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Baruningithub/LeetCode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/0541-reverse-string-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Baruningithub/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -151,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
