@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Baruningithub/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Baruningithub/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Baruningithub/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Baruningithub/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Baruningithub/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Baruningithub/LeetCode/tree/master/0389-find-the-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Baruningithub/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Baruningithub/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Baruningithub/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -160,4 +162,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Baruningithub/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
