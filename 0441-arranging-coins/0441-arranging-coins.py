@@ -1,10 +1,5 @@
-class Solution:
-    def arrangeCoins(self, n: int) -> int:
-        if n == 1:
-            return 1
-        i = 1
-        while n >= i:
-            n -= i
-            i += 1
+import math
 
-        return i-1
+class Solution(object):
+    def arrangeCoins(self, n):
+        return int((math.sqrt(8 * n + 1) - 1) // 2)
