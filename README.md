@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Baruningithub/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Baruningithub/LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Baruningithub/LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/Baruningithub/LeetCode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/Baruningithub/LeetCode/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Baruningithub/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Baruningithub/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Baruningithub/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Baruningithub/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Baruningithub/LeetCode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/Baruningithub/LeetCode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/0541-reverse-string-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Baruningithub/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
