@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Baruningithub/LeetCode/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Baruningithub/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Baruningithub/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3210-count-beautiful-substrings-i](https://github.com/Baruningithub/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Baruningithub/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Baruningithub/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/Baruningithub/LeetCode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Baruningithub/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [3210-count-beautiful-substrings-i](https://github.com/Baruningithub/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Baruningithub/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Simulation
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Baruningithub/LeetCode/tree/master/0389-find-the-difference) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Baruningithub/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Baruningithub/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3210-count-beautiful-substrings-i](https://github.com/Baruningithub/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Baruningithub/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
@@ -170,9 +173,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [3210-count-beautiful-substrings-i](https://github.com/Baruningithub/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Design
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Baruningithub/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3210-count-beautiful-substrings-i](https://github.com/Baruningithub/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
+## Number Theory
+|  |
+| ------- |
+| [3210-count-beautiful-substrings-i](https://github.com/Baruningithub/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
