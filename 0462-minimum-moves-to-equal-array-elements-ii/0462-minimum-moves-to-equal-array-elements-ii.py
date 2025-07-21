@@ -1,10 +1,13 @@
 class Solution:
     def minMoves2(self, nums: List[int]) -> int:
         nums.sort()
-        median = nums[len(nums)//2]
-        moves = 0
+        result = 0
+        low = 0
+        high = len(nums) -1
 
-        for i in nums:
-            moves+= abs(median - i)    
-
-        return moves
+        while low < high:
+            result += nums[high] - nums[low]
+            low += 1
+            high -= 1
+            
+        return result
