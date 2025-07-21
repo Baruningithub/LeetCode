@@ -1,5 +1,7 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
+        if len(s) < 3 :
+            return s
         result = s[0]
         last_checked = s[0]
         count = 1
