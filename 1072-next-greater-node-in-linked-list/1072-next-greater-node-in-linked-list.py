@@ -1,19 +1,17 @@
 class Solution:
     def nextLargerNodes(self, head: Optional[ListNode]) -> List[int]:
-        ans = []
+        values = []
+        while head:
+            values.append(head.val)
+            head = head.next
 
-        current = head
-        while current:
-            next_node = current.next
-            found = 0
-            
-            while next_node:
-                if next_node.val > current.val:
-                    found = next_node.val
-                    break
-                next_node = next_node.next
-
-            ans.append(found)
-            current = current.next
-
-        return ans
+        result = [0] * len(values)
+        stack = []  # will store indices
+        
+        for i, val in enumerate(values):
+            while stack and values[stack[-1]] < val:
+                idx = stack.pop()
+                result[idx] = val
+            stack.append(i)
+        
+        return result
