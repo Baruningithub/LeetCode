@@ -9,17 +9,15 @@ class Solution:
     def insertGreatestCommonDivisors(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head.next == None : return head
 
-        dummy = head
-        while head.next != None:
-            curr = head
-
+        curr = head
+        while curr and curr.next:
             gcd = ListNode()
             gcd.val = math.gcd(curr.val, curr.next.val)
 
             gcd.next = curr.next
             curr.next = gcd
 
-            head = head.next.next
+            curr = gcd.next
         
-        return dummy
+        return head
         
