@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Baruningithub/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/Baruningithub/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Baruningithub/LeetCode/tree/master/0504-base-7) |
+| [0633-sum-of-square-numbers](https://github.com/Baruningithub/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Baruningithub/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0968-beautiful-array](https://github.com/Baruningithub/LeetCode/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/Baruningithub/LeetCode/tree/master/1013-fibonacci-number) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Baruningithub/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Baruningithub/LeetCode/tree/master/0441-arranging-coins) |
+| [0633-sum-of-square-numbers](https://github.com/Baruningithub/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Baruningithub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Baruningithub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0541-reverse-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Baruningithub/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
