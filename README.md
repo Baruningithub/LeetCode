@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Baruningithub/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Baruningithub/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/Baruningithub/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Baruningithub/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Baruningithub/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Baruningithub/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Baruningithub/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Baruningithub/LeetCode/tree/master/0412-fizz-buzz) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Baruningithub/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Baruningithub/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
@@ -201,4 +203,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/Baruningithub/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Baruningithub/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Baruningithub/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
