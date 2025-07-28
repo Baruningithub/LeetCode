@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0492-construct-the-rectangle](https://github.com/Baruningithub/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Baruningithub/LeetCode/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/Baruningithub/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0968-beautiful-array](https://github.com/Baruningithub/LeetCode/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/Baruningithub/LeetCode/tree/master/1013-fibonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Baruningithub/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Baruningithub/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Baruningithub/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0968-beautiful-array](https://github.com/Baruningithub/LeetCode/tree/master/0968-beautiful-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Baruningithub/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Baruningithub/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Baruningithub/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Baruningithub/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Baruningithub/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0968-beautiful-array](https://github.com/Baruningithub/LeetCode/tree/master/0968-beautiful-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
