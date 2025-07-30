@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Baruningithub/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Baruningithub/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0901-advantage-shuffle](https://github.com/Baruningithub/LeetCode/tree/master/0901-advantage-shuffle) |
 | [0968-beautiful-array](https://github.com/Baruningithub/LeetCode/tree/master/0968-beautiful-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Baruningithub/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Baruningithub/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Baruningithub/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0541-reverse-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Baruningithub/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0901-advantage-shuffle](https://github.com/Baruningithub/LeetCode/tree/master/0901-advantage-shuffle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,11 +169,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Baruningithub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Baruningithub/LeetCode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Baruningithub/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0901-advantage-shuffle](https://github.com/Baruningithub/LeetCode/tree/master/0901-advantage-shuffle) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Baruningithub/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Baruningithub/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Greedy
 |  |
 | ------- |
+| [0901-advantage-shuffle](https://github.com/Baruningithub/LeetCode/tree/master/0901-advantage-shuffle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Baruningithub/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Baruningithub/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Baruningithub/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
