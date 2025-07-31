@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/Baruningithub/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0968-beautiful-array](https://github.com/Baruningithub/LeetCode/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/Baruningithub/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Baruningithub/LeetCode/tree/master/1086-divisor-game) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Baruningithub/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Baruningithub/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Baruningithub/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Baruningithub/LeetCode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Baruningithub/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1013-fibonacci-number](https://github.com/Baruningithub/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Baruningithub/LeetCode/tree/master/1086-divisor-game) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Stack
 |  |
@@ -237,6 +239,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/Baruningithub/LeetCode/tree/master/1086-divisor-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Baruningithub/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Baruningithub/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Baruningithub/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
