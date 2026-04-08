@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/Baruningithub/LeetCode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Baruningithub/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Baruningithub/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3210-count-beautiful-substrings-i](https://github.com/Baruningithub/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3396-valid-word](https://github.com/Baruningithub/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Baruningithub/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -262,4 +263,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Baruningithub/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Baruningithub/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
