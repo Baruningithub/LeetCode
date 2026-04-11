@@ -12,8 +12,7 @@ class Solution:
             if nums[right] == 0:
                 zeros += 1
 
-
-            if zeros > 1:
+            while zeros > 1:
                 if nums[left] == 0:
                     zeros -= 1
                 left += 1
