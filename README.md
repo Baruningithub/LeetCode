@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Baruningithub/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Baruningithub/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/Baruningithub/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Baruningithub/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0541-reverse-string-ii](https://github.com/Baruningithub/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Baruningithub/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Baruningithub/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2390-removing-stars-from-a-string](https://github.com/Baruningithub/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3210-count-beautiful-substrings-i](https://github.com/Baruningithub/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3396-valid-word](https://github.com/Baruningithub/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Baruningithub/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Baruningithub/LeetCode/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/Baruningithub/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2857-total-distance-traveled](https://github.com/Baruningithub/LeetCode/tree/master/2857-total-distance-traveled) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Baruningithub/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Baruningithub/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
