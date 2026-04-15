@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Baruningithub/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Baruningithub/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Baruningithub/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Baruningithub/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Baruningithub/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Baruningithub/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Baruningithub/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Baruningithub/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Baruningithub/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2390-removing-stars-from-a-string](https://github.com/Baruningithub/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Baruningithub/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/Baruningithub/LeetCode/tree/master/3210-count-beautiful-substrings-i) |
 | [3396-valid-word](https://github.com/Baruningithub/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Baruningithub/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
